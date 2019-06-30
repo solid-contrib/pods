@@ -4,6 +4,7 @@
 |-----------------------------------|:---------------------------------------------------:|:-------------------------------------------------:|:-------------------:|:--------------------:|
 | https://inrupt.net/               | [Inrupt, Inc.](https://inrupt.com/terms-of-service) |         [Amazon](https://aws.amazon.com)          |         USA         |          NSS 4.x          |
 | https://solid.community/| ?? | ?? |         ??          |           NSS 4.x          |
+| https://solid.authing.cn/         |                          [Authing](https://authing.cn)                         |                        [Tencent Cloud](https://cloud.tencent.com)                         |         China          |          NSS 5.x          |
 
 
 # Experimental Solid Servers
@@ -18,4 +19,4 @@ In short, these are made for testing the latest, bleeding edge features and capa
 | https://solid.openlinksw.com:8445 |   [OpenLink Software](https://www.openlinksw.com/)  |         USA         |        NSS 5.x       |
 | https://dev.inrupt.net |  [Inrupt, Inc.](https://www.inrupt.com/)  |         USA         |        NSS 5.x       |
 | https://solid.authing.cn/         |                          ??                         |                        ??                         |         ??          |          ??          |
-| https://solidweb.org:8443         |                         [Matthias Evering](https://github.com/ewingson)                      |                        Germany                         |         NSS 5.x          |        
+| https://solidweb.org         |                         [Matthias Evering](https://github.com/ewingson)                      |                        Germany                         |         NSS 5.x          |        
