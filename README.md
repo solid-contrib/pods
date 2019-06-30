@@ -14,7 +14,7 @@ In short, these are made for testing the latest, bleeding edge features and capa
 
 | Link | Responsible for Hosting| Location of Hosting | Solid Server Version |
 |-------------------|-------------------|-------------------|-------------------|
-| https://solid.community/| started at [Solid MIT academic project](https://solid.mit.edu) | UK |           NSS 4.x          |
+| https://solid.community/| started at [Solid MIT academic project](https://solid.mit.edu) | UK |           NSS 5.x          |
 | https://solid.openlinksw.com:8444 |   [OpenLink Software](https://www.openlinksw.com/)  |         USA         |        NSS 4.x       |
 | https://solid.openlinksw.com:8445 |   [OpenLink Software](https://www.openlinksw.com/)  |         USA         |        NSS 5.x       |
 | https://dev.inrupt.net |  [Inrupt, Inc.](https://www.inrupt.com/)  |         USA         |        NSS 5.x       |
