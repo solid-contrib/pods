@@ -1,7 +1,7 @@
 
 To get started with Solid you will first need to get a Pod.
 
-Pick from you Pod providers below. 
+Pick from you [Pod providers](https://github.com/solid/pods/blob/master/README.md#pod-providers) below. 
 
 You can also get an [identity provider](https://github.com/solid/solid-idp-list) that is independent from your Pod and [self host your Pod](https://github.com/solid/information/blob/master/documentation/pods.md#self-hosting-pods) rather than opt for a Pod provider.
 
