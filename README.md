@@ -11,7 +11,7 @@ You can also get an [identity provider](https://github.com/solid/solid-idp-list)
 
 |               Link                |    Responsible for Domain Name and Terms of Use     |             Responsible for Hosting               | Location of Hosting | Solid Server Version |
 |-----------------------------------|:---------------------------------------------------:|:-------------------------------------------------:|:-------------------:|:--------------------:|
-| https://inrupt.net/               | [Inrupt, Inc.](https://inrupt.com/terms-of-service) |         [Amazon](https://aws.amazon.com)          |         USA         |          NSS 5.x          |
+| https://inrupt.net/               | [Inrupt, Inc.](https://inrupt.com/terms-of-service) |         [Amazon](https://aws.amazon.com)          |         USA         |         5.1.7          |
 | https://solid.authing.cn/         |                          [Authing](https://authing.cn)                         |                        [Tencent Cloud](https://cloud.tencent.com)                         |         China          |          NSS 5.x          |
 
 
